@@ -36,4 +36,6 @@ int main()
     jun::Point point(1,2);
     point.printPoint();
     point.getPoint();
+
+    //hello, this will be added to main!
 }
